@@ -1,0 +1,14 @@
+{
+  "name": "example_nodejs_project_by_piotr_muszynski",
+  "version": "0.0.1",
+  "description": "Example project that shows how to publish to Github & Nodejs",
+  "main": "dist/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Piotr Muszyński",
+  "license": "MIT"
+}
